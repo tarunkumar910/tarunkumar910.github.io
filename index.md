@@ -93,13 +93,70 @@ I'm currently preparing to become a **Security Operations Center (SOC) Tier 1 An
    - [🔗 View Report](https://github.com/tarunkumar910/RD_INFRO_TECHNOLOGY/tree/main/Open%20VAS)
 
 ---
+## Projects
+
+### Cybersecurity Projects
+
+1. **Password Manager**  
+   - A Python-based application for securely generating and storing passwords.  
+   - [🔗 View Project](https://github.com/tarunkumar910/RD_INFRO_TECHNOLOGY/tree/main/Password%20manager%20Guide)
+
+2. **Phishing Email Detection Report**  
+   - Research and techniques on detecting phishing emails effectively.  
+   - [🔗 View Report](https://github.com/tarunkumar910/RD_INFRO_TECHNOLOGY/tree/main/Phishing%20Detection)
+
+3. **Vulnerability Scanning**  
+   - Performed vulnerability scans using OpenVAS and documented solutions.  
+   - [🔗 View Report](https://github.com/tarunkumar910/RD_INFRO_TECHNOLOGY/tree/main/Open%20VAS)
+
+4. **HackTheBox Write-Up**  
+   - Documented capturing flags with detailed explanations and tools used.  
+   - [🔗 View Medium Report](https://medium.com/your-profile/hackthebox-writeup)
+
+---
+
+### Web Development Projects
+
+1. **Personal Portfolio Website**  
+   - Created a portfolio website showcasing skills, projects, and certifications.  
+   - [🔗 View Project](https://tarunkumar910.github.io/personal/)
+
+2. **Assignment Website**  
+   - A responsive website for submitting assignments and tasks.  
+   - [🔗 View Project](https://tarunkumar910.github.io/Assignment/)
+
+3. **Tin Dog Project**  
+   - A fun web app designed to showcase a dog-matching service.  
+   - [🔗 View Project](https://tarunkumar910.github.io/tin-dog-project/)
+
+4. **Personal CV Website**  
+   - Developed a CV website for professional networking.  
+   - [🔗 View Project](https://tarunkumar910.github.io/cv/)
+
+---
+
+### IoT Projects
+
+1. **Biometric Attendance System**  
+   - Designed a biometric system using Arduino for secure attendance logging.  
+   - Focused on secure data transfer and hardware-software integration.
+
+---
+
+### Java Projects
+
+1. **Tic Tac Toe Game**  
+   - A two-player game built with Java, featuring a simple and intuitive UI.  
+   - [🔗 View Project](https://github.com/tarunkumar910/tic_tac_to_game)
+
+---
 
 ## Tools
 
 | Tool Category       | Tools                                                                 |
 |---------------------|----------------------------------------------------------------------|
 | **Cybersecurity**   | Wireshark, Nmap, Burp Suite, OWASP ZAP                               |
-| **Programming**     | Python, Java, C, JavaScript                                         |
+| **Programming**     | Python, Java, C, SQL                                        |
 | **Web Development** | HTML, CSS, Bootstrap                                                |
 | **IoT**             | Arduino IDE                                                        |
 
