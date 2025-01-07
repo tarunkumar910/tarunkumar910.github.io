@@ -1,6 +1,3 @@
----
-layout: default
----
 
 # Hello, I'm TARUN KUMAR PATHAK
 
