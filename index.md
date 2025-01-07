@@ -41,17 +41,9 @@ I'm currently preparing to become a **Security Operations Center (SOC) Tier 1 An
 
 ## HackTheBox Solutions
 
-<div style="text-align: center; margin-top: 20px;">
-  <a href=dashboard.md target="_blank" style="text-decoration: none;">
-    <button style="background-color: #4CAF50; color: white; border: none; padding: 15px 30px; margin: 10px; border-radius: 5px; font-size: 18px; cursor: pointer;"
-            onmouseover="this.style.opacity='0.8'" 
-            onmouseout="this.style.opacity='1'">
-      Explore HackTheBox Solutions
-    </button>
-  </a>
-</div>
+🔗 **[View HackTheBox Solutions](dashboard.md)**
 
-### What You'll Find
+ ## What You'll Find
 
 In my **HackTheBox Machine Solutions**, you will discover:
 
