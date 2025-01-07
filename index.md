@@ -93,7 +93,7 @@ I'm currently preparing to become a **Security Operations Center (SOC) Tier 1 An
 
 
 
----
+
 ## Projects
 
 ### Cybersecurity Projects
@@ -104,16 +104,11 @@ I'm currently preparing to become a **Security Operations Center (SOC) Tier 1 An
 
 2. **Phishing Email Detection Report**  
    - Research and techniques on detecting phishing emails effectively.  
-   - [🔗 View Report](https://github.com/tarunkumar910/RD_INFRO_TECHNOLOGY/tree/main/Phishing%20Detection)
+   - [🔗 View Report](https://github.com/tarunkumar910/RD_INFRO_TECHNOLOGY/blob/main/Phishing%20Awareness/Phishing%20Campingn/SIMULATED%20PHISHING%20CAMPAIGN%20REPORT.pdf)
 
 3. **Vulnerability Scanning**  
    - Performed vulnerability scans using OpenVAS and documented solutions.  
-   - [🔗 View Report](https://github.com/tarunkumar910/RD_INFRO_TECHNOLOGY/tree/main/Open%20VAS)
-
-4. **HackTheBox Write-Up**  
-   - Documented capturing flags with detailed explanations and tools used.  
-   - [🔗 View Medium Report](https://medium.com/your-profile/hackthebox-writeup)
-
+   - [🔗 View Report](https://github.com/tarunkumar910/RD_INFRO_TECHNOLOGY/blob/main/Open%20VAS/report-002ed79e-c41f-4d81-9d29-f0329fbb1462.pdf)
 ---
 
 ### Web Development Projects
