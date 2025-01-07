@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Hello, I'm TARUN KUMAR
+# Hello, I'm TARUN KUMAR PATHAK
 
 <a href="https://www.linkedin.com/in/tarun-kumar-pathak/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://tryhackme.com/r/p/tarunkumar910"><img src="https://img.shields.io/badge/-TryHackMe-212C42?&style=for-the-badge&logo=TryHackMe&logoColor=white" /></a>
