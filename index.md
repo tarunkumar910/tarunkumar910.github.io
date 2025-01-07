@@ -6,17 +6,17 @@ layout: default
 
 <div style="text-align: center; margin-top: 20px;">
   <a href="https://www.linkedin.com/in/tarun-kumar-pathak/" target="_blank" style="text-decoration: none;">
-    <button style="background-color: #0072b1; color: white; border: none; padding: 10px 20px; margin: 5px; border-radius: 5px; font-size: 16px; cursor: pointer;">
+    <button onmouseover="this.style.opacity='0.8'" onmouseout="this.style.opacity='1'" style="background-color: #0072b1; color: white; border: none; padding: 10px 20px; margin: 5px; border-radius: 5px; font-size: 16px; cursor: pointer;">
       LinkedIn
     </button>
   </a>
   <a href="https://tryhackme.com/r/p/tarunkumar910" target="_blank" style="text-decoration: none;">
-    <button style="background-color: #212C42; color: white; border: none; padding: 10px 20px; margin: 5px; border-radius: 5px; font-size: 16px; cursor: pointer;">
+    <button onmouseover="this.style.opacity='0.8'" onmouseout="this.style.opacity='1'" style="background-color: #212C42; color: white; border: none; padding: 10px 20px; margin: 5px; border-radius: 5px; font-size: 16px; cursor: pointer;">
       TryHackMe
     </button>
   </a>
   <a href="https://leetcode.com/u/tarunkumar910/" target="_blank" style="text-decoration: none;">
-    <button style="background-color: #FFA116; color: white; border: none; padding: 10px 20px; margin: 5px; border-radius: 5px; font-size: 16px; cursor: pointer;">
+    <button onmouseover="this.style.opacity='0.8'" onmouseout="this.style.opacity='1'" style="background-color: #FFA116; color: white; border: none; padding: 10px 20px; margin: 5px; border-radius: 5px; font-size: 16px; cursor: pointer;">
       LeetCode
     </button>
   </a>
