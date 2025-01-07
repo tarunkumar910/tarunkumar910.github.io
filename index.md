@@ -62,15 +62,86 @@ I'm currently preparing to become a **Security Operations Center (SOC) Tier 1 An
 
 ## Certifications
 
-<a href="https://cit2.internshipstudio.com/certificates/validate_certificate.php?verify=ISETHT103046"><img src="https://img.shields.io/badge/-Cyber_Security-FF0000?&style=for-the-badge&logo=CyberSecurity&logoColor=white" /></a>
-<a href="https://cit2.internshipstudio.com/certificates/validate_certificate.php?verify=ISETHI103046"><img src="https://img.shields.io/badge/-Internship-007ACC?&style=for-the-badge&logo=InternshipStudio&logoColor=white" /></a>
-<a href="https://www.coursera.org/account/accomplishments/verify/36AJC7S2JA57"><img src="https://img.shields.io/badge/-Risk_Management-4D4D4D?&style=for-the-badge&logo=Google&logoColor=white" /></a>
-<a href="https://www.coursera.org/account/accomplishments/verify/1JZ3FD5ZOVBA"><img src="https://img.shields.io/badge/-Linux_&_SQL-4D4D4D?&style=for-the-badge&logo=Google&logoColor=white" /></a>
-<a href="https://www.coursera.org/account/accomplishments/verify/B506671WRWX4"><img src="https://img.shields.io/badge/-Foundations_of_Cybersecurity-2C2F33?&style=for-the-badge&logo=Google&logoColor=white" /></a>
-<a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-SE9TRGWNI4.pdf"><img src="https://img.shields.io/badge/-Web_Fundamentals-006400?&style=for-the-badge&logo=TryHackMe&logoColor=white" /></a>
-<a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-C2G2ZXOENZ.png"><img src="https://img.shields.io/badge/-Pre_Security_by_TryHackMe-212C42?&style=for-the-badge&logo=TryHackMe&logoColor=white" /></a>
-<a href="https://www.udemy.com/certificate/UC-17a06d36-a8ca-415b-831e-e77a586a0b33/"><img src="https://img.shields.io/badge/-Python-000080?&style=for-the-badge&logo=Udemy&logoColor=white" /></a>
-<a href="https://www.udemy.com/certificate/UC-53aacb89-3dfd-4d80-bed1-3db59eda547b/"><img src="https://img.shields.io/badge/-Web_Development-000080?&style=for-the-badge&logo=Udemy&logoColor=white" /></a>
+<div style="text-align: center; margin-top: 20px;">
+
+  <!-- Cyber Security -->
+  <a href="https://cit2.internshipstudio.com/certificates/validate_certificate.php?verify=ISETHT103046" target="_blank" style="text-decoration: none; display: inline-block; margin: 5px;">
+    <button onmouseover="this.style.opacity='0.8'" onmouseout="this.style.opacity='1'" style="background-color: #FF4500; color: white; border: none; padding: 10px 20px; border-radius: 5px; font-size: 16px; cursor: pointer;">
+      Cyber Security
+    </button>
+  </a>
+
+  <!-- Internship -->
+  <a href="https://cit2.internshipstudio.com/certificates/validate_certificate.php?verify=ISETHI103046" target="_blank" style="text-decoration: none; display: inline-block; margin: 5px;">
+    <button onmouseover="this.style.opacity='0.8'" onmouseout="this.style.opacity='1'" style="background-color: #4682B4; color: white; border: none; padding: 10px 20px; border-radius: 5px; font-size: 16px; cursor: pointer;">
+      Internship
+    </button>
+  </a>
+
+  <!-- Risk Management -->
+  <a href="https://www.coursera.org/account/accomplishments/verify/36AJC7S2JA57" target="_blank" style="text-decoration: none; display: inline-block; margin: 5px;">
+    <button onmouseover="this.style.opacity='0.8'" onmouseout="this.style.opacity='1'" style="background-color: #696969; color: white; border: none; padding: 10px 20px; border-radius: 5px; font-size: 16px; cursor: pointer;">
+      Risk Management
+    </button>
+  </a>
+
+  <!-- Linux & SQL -->
+  <a href="https://www.coursera.org/account/accomplishments/verify/1JZ3FD5ZOVBA" target="_blank" style="text-decoration: none; display: inline-block; margin: 5px;">
+    <button onmouseover="this.style.opacity='0.8'" onmouseout="this.style.opacity='1'" style="background-color: #808080; color: white; border: none; padding: 10px 20px; border-radius: 5px; font-size: 16px; cursor: pointer;">
+      Linux & SQL
+    </button>
+  </a>
+
+  <!-- Foundations of Cybersecurity -->
+  <a href="https://www.coursera.org/account/accomplishments/verify/B506671WRWX4" target="_blank" style="text-decoration: none; display: inline-block; margin: 5px;">
+    <button onmouseover="this.style.opacity='0.8'" onmouseout="this.style.opacity='1'" style="background-color: #2E8B57; color: white; border: none; padding: 10px 20px; border-radius: 5px; font-size: 16px; cursor: pointer;">
+      Foundations of Cybersecurity
+    </button>
+  </a>
+
+  <!-- Web Fundamentals -->
+  <a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-SE9TRGWNI4.pdf" target="_blank" style="text-decoration: none; display: inline-block; margin: 5px;">
+    <button onmouseover="this.style.opacity='0.8'" onmouseout="this.style.opacity='1'" style="background-color: #006400; color: white; border: none; padding: 10px 20px; border-radius: 5px; font-size: 16px; cursor: pointer;">
+      Web Fundamentals
+    </button>
+  </a>
+
+  <!-- Pre Security by TryHackMe -->
+  <a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-C2G2ZXOENZ.png" target="_blank" style="text-decoration: none; display: inline-block; margin: 5px;">
+    <button onmouseover="this.style.opacity='0.8'" onmouseout="this.style.opacity='1'" style="background-color: #4B0082; color: white; border: none; padding: 10px 20px; border-radius: 5px; font-size: 16px; cursor: pointer;">
+      Pre Security by TryHackMe
+    </button>
+  </a>
+
+  <!-- Python -->
+  <a href="https://www.udemy.com/certificate/UC-17a06d36-a8ca-415b-831e-e77a586a0b33/" target="_blank" style="text-decoration: none; display: inline-block; margin: 5px;">
+    <button onmouseover="this.style.opacity='0.8'" onmouseout="this.style.opacity='1'" style="background-color: #1E90FF; color: white; border: none; padding: 10px 20px; border-radius: 5px; font-size: 16px; cursor: pointer;">
+      Python
+    </button>
+  </a>
+
+  <!-- Web Development -->
+  <a href="https://www.udemy.com/certificate/UC-53aacb89-3dfd-4d80-bed1-3db59eda547b/" target="_blank" style="text-decoration: none; display: inline-block; margin: 5px;">
+    <button onmouseover="this.style.opacity='0.8'" onmouseout="this.style.opacity='1'" style="background-color: #000080; color: white; border: none; padding: 10px 20px; border-radius: 5px; font-size: 16px; cursor: pointer;">
+      Web Development
+    </button>
+  </a>
+
+  <!-- Jr Penetration Tester -->
+  <a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-SH6LXAN6U5.pdf" target="_blank" style="text-decoration: none; display: inline-block; margin: 5px;">
+    <button onmouseover="this.style.opacity='0.8'" onmouseout="this.style.opacity='1'" style="background-color: #228B22; color: white; border: none; padding: 10px 20px; border-radius: 5px; font-size: 16px; cursor: pointer;">
+      Jr Penetration Tester
+    </button>
+  </a>
+
+  <!-- Internship by Rd Infro Technology -->
+  <a href="https://github.com/tarunkumar910/RD_INFRO_TECHNOLOGY/blob/main/Attachment/CYBER%20SECURITY.png" target="_blank" style="text-decoration: none; display: inline-block; margin: 5px;">
+    <button onmouseover="this.style.opacity='0.8'" onmouseout="this.style.opacity='1'" style="background-color: #800000; color: white; border: none; padding: 10px 20px; border-radius: 5px; font-size: 16px; cursor: pointer;">
+      Internship by Rd Infro Technology
+    </button>
+  </a>
+</div>
+
 
 
 ---
