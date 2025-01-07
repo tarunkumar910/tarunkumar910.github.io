@@ -38,6 +38,10 @@ I'm currently preparing to become a **Security Operations Center (SOC) Tier 1 An
 
 ---
 
+## HackTheBox Solutions
+
+- **[HackTheBox Machine Solutions](hackthebox.md)**: Check out my detailed solutions for HackTheBox machines, including methodologies, tools, and custom scripts.
+---
 ## Skills
 
 ### Cybersecurity Skills
