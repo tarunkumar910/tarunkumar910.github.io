@@ -43,7 +43,7 @@ I'm currently preparing to become a **Security Operations Center (SOC) Tier 1 An
 
 🔗 **[View HackTheBox Solutions](dashboard.md)**
 
- ## What You'll Find
+### What You'll Find
 
 In my **HackTheBox Machine Solutions**, you will discover:
 
@@ -55,7 +55,7 @@ In my **HackTheBox Machine Solutions**, you will discover:
 - **YouTube Videos**: Watch detailed video guides to understand the process better.
 - **Screenshots**: Annotated screenshots showing critical steps and results.
 
-🔗 **[View HackTheBox Solutions](dashboard.md)**
+
   
 ---
 
