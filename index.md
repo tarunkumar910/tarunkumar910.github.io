@@ -33,6 +33,7 @@ I'm a third-year **Electronics and Communication Engineering B.Tech student**, p
 - **IoT Development**
 - **Ethical Hacking**
 - **Competitive Coding**
+- **CTF Player**
 
 I'm currently preparing to become a **Security Operations Center (SOC) Tier 1 Analyst** to help solve real-world security challenges.
 
@@ -40,8 +41,32 @@ I'm currently preparing to become a **Security Operations Center (SOC) Tier 1 An
 
 ## HackTheBox Solutions
 
-- **[HackTheBox Machine Solutions](hackthebox.md)**: Check out my detailed solutions for HackTheBox machines, including methodologies, tools, and custom scripts.
+<div style="text-align: center; margin-top: 20px;">
+  <a href="hackthebox.md" target="_blank" style="text-decoration: none;">
+    <button style="background-color: #4CAF50; color: white; border: none; padding: 15px 30px; margin: 10px; border-radius: 5px; font-size: 18px; cursor: pointer;"
+            onmouseover="this.style.opacity='0.8'" 
+            onmouseout="this.style.opacity='1'">
+      Explore HackTheBox Solutions
+    </button>
+  </a>
+</div>
+
+### What You'll Find
+
+In my **HackTheBox Machine Solutions**, you will discover:
+
+- **Methodology**: Step-by-step process for identifying and exploiting vulnerabilities.
+- **Tools Used**: Insights into tools like **Nmap**, **Burp Suite**, **Metasploit**, and custom scripts.
+- **Step-by-Step Walkthroughs**: Detailed instructions for capturing flags.
+- **Custom Scripts**: Scripts I developed to solve specific challenges.
+- **Network Diagrams**: Visual representation of attack vectors and network topology.
+- **YouTube Videos**: Watch detailed video guides to understand the process better.
+- **Screenshots**: Annotated screenshots showing critical steps and results.
+
+🔗 **[View HackTheBox Solutions](hackthebox.md)**
+  
 ---
+
 ## Skills
 
 ### Cybersecurity Skills
