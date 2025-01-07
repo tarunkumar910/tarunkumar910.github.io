@@ -2,122 +2,92 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
+# Hello, I'm TARUN KUMAR
 
-[Link to another page](./another-page.html).
+<a href="https://www.linkedin.com/in/tarun-kumar-pathak/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://tryhackme.com/r/p/tarunkumar910"><img src="https://img.shields.io/badge/-TryHackMe-212C42?&style=for-the-badge&logo=TryHackMe&logoColor=white" /></a>
+<a href="https://leetcode.com/u/tarunkumar910/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?&style=for-the-badge&logo=LeetCode&logoColor=white" /></a>
 
-There should be whitespace between paragraphs.
+---
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+## About Me
 
-# Header 1
+I'm a third-year **Electronics and Communication Engineering B.Tech student**, passionate about **coding** and **cybersecurity**. My technological journey includes:
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+- **IoT Development**
+- **Ethical Hacking**
+- **Competitive Coding**
 
-## Header 2
+I'm currently preparing to become a **Security Operations Center (SOC) Tier 1 Analyst** to help solve real-world security challenges.
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+---
 
-### Header 3
+## Skills
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+### Cybersecurity Skills
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+- **Ethical Hacking**: Proficient in penetration testing, vulnerability assessment, and threat analysis.
+- **Network Security**: Skilled in traffic monitoring, packet analysis using tools like Wireshark and Nmap.
+- **Web Application Security**: Experienced with OWASP ZAP, Burp Suite for detecting vulnerabilities.
 
-#### Header 4
+### Programming and Scripting
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+- **Languages**: Python, Java, C, JavaScript.
+- Developed scripts for automating security tasks and mitigating threats.
 
-##### Header 5
+### Web Development
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+- Proficient in HTML, CSS, and Bootstrap for responsive web design.
+- Created user-friendly UI with performance optimization for desktop and mobile platforms.
 
-###### Header 6
+### IoT Systems
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+- Expertise in IoT development, including designing biometric systems with Arduino.
+- Ensured secure data integration and hardware-software interaction.
 
-### There's a horizontal rule below this.
+---
 
-* * *
+## Certifications
 
-### Here is an unordered list:
+<a href="https://cit2.internshipstudio.com/certificates/validate_certificate.php?verify=ISETHT103046"><img src="https://img.shields.io/badge/-Cyber_Security-FF0000?&style=for-the-badge&logo=CyberSecurity&logoColor=white" /></a>
+<a href="https://www.coursera.org/account/accomplishments/verify/36AJC7S2JA57"><img src="https://img.shields.io/badge/-Risk_Management-4D4D4D?&style=for-the-badge&logo=Google&logoColor=white" /></a>
+<a href="https://www.udemy.com/certificate/UC-17a06d36-a8ca-415b-831e-e77a586a0b33/"><img src="https://img.shields.io/badge/-Python-000080?&style=for-the-badge&logo=Udemy&logoColor=white" /></a>
 
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
+---
 
-### And an ordered list:
+## Projects
 
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
+### Cybersecurity Projects
 
-### And a nested list:
+1. **Password Manager**  
+   - Developed a Python-based tool to create, store, and manage passwords securely.
+   - [🔗 View Project](https://github.com/tarunkumar910/RD_INFRO_TECHNOLOGY/tree/main/Password%20manager%20Guide)
 
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
+2. **Phishing Email Detection Report**  
+   - Conducted research on phishing techniques and detection methods.
+   - [🔗 View Report](https://github.com/tarunkumar910/RD_INFRO_TECHNOLOGY/tree/main/Phishing%20Detection)
 
-### Small image
+3. **Vulnerability Scanning**  
+   - Performed scans with OpenVAS, documented findings, and proposed solutions.
+   - [🔗 View Report](https://github.com/tarunkumar910/RD_INFRO_TECHNOLOGY/tree/main/Open%20VAS)
 
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
+---
 
-### Large image
+## Tools
 
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+| Tool Category       | Tools                                                                 |
+|---------------------|----------------------------------------------------------------------|
+| **Cybersecurity**   | Wireshark, Nmap, Burp Suite, OWASP ZAP                               |
+| **Programming**     | Python, Java, C, JavaScript                                         |
+| **Web Development** | HTML, CSS, Bootstrap                                                |
+| **IoT**             | Arduino IDE                                                        |
 
+---
 
-### Definition lists can be used with HTML syntax.
+## Connect with Me
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
+- [LinkedIn](https://www.linkedin.com/in/tarun-kumar-pathak/)
+- [TryHackMe](https://tryhackme.com/r/p/tarunkumar910)
+- [LeetCode](https://leetcode.com/u/tarunkumar910/)
 
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+---
