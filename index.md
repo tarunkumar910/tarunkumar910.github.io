@@ -183,7 +183,9 @@ I'm currently preparing to become a **Security Operations Center (SOC) Tier 1 An
      
 4. **Password Strength checker**  
    - It is use check the password that you have use is safe or no.
-   - [🔗 View Report]( https://github.com/tarunkumar910/password_strength_checker)
+   - [🔗 View Project]( https://github.com/tarunkumar910/password_strength_checker)
+  
+     
 ---
 
 ### Web Development Projects
