@@ -50,8 +50,15 @@ I'm currently preparing to become a **Security Operations Center (SOC) Tier 1 An
 ## Certifications
 
 <a href="https://cit2.internshipstudio.com/certificates/validate_certificate.php?verify=ISETHT103046"><img src="https://img.shields.io/badge/-Cyber_Security-FF0000?&style=for-the-badge&logo=CyberSecurity&logoColor=white" /></a>
+<a href="https://cit2.internshipstudio.com/certificates/validate_certificate.php?verify=ISETHI103046"><img src="https://img.shields.io/badge/-Internship-007ACC?&style=for-the-badge&logo=InternshipStudio&logoColor=white" /></a>
 <a href="https://www.coursera.org/account/accomplishments/verify/36AJC7S2JA57"><img src="https://img.shields.io/badge/-Risk_Management-4D4D4D?&style=for-the-badge&logo=Google&logoColor=white" /></a>
+<a href="https://www.coursera.org/account/accomplishments/verify/1JZ3FD5ZOVBA"><img src="https://img.shields.io/badge/-Linux_&_SQL-4D4D4D?&style=for-the-badge&logo=Google&logoColor=white" /></a>
+<a href="https://www.coursera.org/account/accomplishments/verify/B506671WRWX4"><img src="https://img.shields.io/badge/-Foundations_of_Cybersecurity-2C2F33?&style=for-the-badge&logo=Google&logoColor=white" /></a>
+<a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-SE9TRGWNI4.pdf"><img src="https://img.shields.io/badge/-Web_Fundamentals-006400?&style=for-the-badge&logo=TryHackMe&logoColor=white" /></a>
+<a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-C2G2ZXOENZ.png"><img src="https://img.shields.io/badge/-Pre_Security_by_TryHackMe-212C42?&style=for-the-badge&logo=TryHackMe&logoColor=white" /></a>
 <a href="https://www.udemy.com/certificate/UC-17a06d36-a8ca-415b-831e-e77a586a0b33/"><img src="https://img.shields.io/badge/-Python-000080?&style=for-the-badge&logo=Udemy&logoColor=white" /></a>
+<a href="https://www.udemy.com/certificate/UC-53aacb89-3dfd-4d80-bed1-3db59eda547b/"><img src="https://img.shields.io/badge/-Web_Development-000080?&style=for-the-badge&logo=Udemy&logoColor=white" /></a>
+</div>
 
 ---
 
