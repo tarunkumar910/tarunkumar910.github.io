@@ -58,7 +58,21 @@ I'm currently preparing to become a **Security Operations Center (SOC) Tier 1 An
 <a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-C2G2ZXOENZ.png"><img src="https://img.shields.io/badge/-Pre_Security_by_TryHackMe-212C42?&style=for-the-badge&logo=TryHackMe&logoColor=white" /></a>
 <a href="https://www.udemy.com/certificate/UC-17a06d36-a8ca-415b-831e-e77a586a0b33/"><img src="https://img.shields.io/badge/-Python-000080?&style=for-the-badge&logo=Udemy&logoColor=white" /></a>
 <a href="https://www.udemy.com/certificate/UC-53aacb89-3dfd-4d80-bed1-3db59eda547b/"><img src="https://img.shields.io/badge/-Web_Development-000080?&style=for-the-badge&logo=Udemy&logoColor=white" /></a>
-</div>
+
+
+---
+
+## Internship
+
+### Rd Infro Technology  
+- **Role**: Cybersecurity Intern  
+- **Duration**: December 2024 - Present  
+- **Responsibilities**:  
+  - Conducted penetration testing and vulnerability assessment of web applications.  
+  - Performed security audits and implemented measures to mitigate risks.  
+  - Documented phishing email detection techniques for awareness programs.  
+  - Developed custom scripts to automate network monitoring and enhance security protocols.  
+- [🔗 View Internship Work](https://github.com/tarunkumar910/RD_INFRO_TECHNOLOGY)
 
 ---
 
