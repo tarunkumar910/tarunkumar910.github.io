@@ -109,6 +109,10 @@ I'm currently preparing to become a **Security Operations Center (SOC) Tier 1 An
 3. **Vulnerability Scanning**  
    - Performed vulnerability scans using OpenVAS and documented solutions.  
    - [🔗 View Report](https://github.com/tarunkumar910/RD_INFRO_TECHNOLOGY/blob/main/Open%20VAS/report-002ed79e-c41f-4d81-9d29-f0329fbb1462.pdf)
+     
+4. **Password Strength checker**  
+   - It is use check the password that you have use is safe or no .  
+   - [🔗 View Project](https://github.com/tarunkumar910/password_strength_checker)
 ---
 
 ### Web Development Projects
