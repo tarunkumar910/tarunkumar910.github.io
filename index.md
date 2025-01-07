@@ -6,17 +6,23 @@ layout: default
 
 <div style="text-align: center; margin-top: 20px;">
   <a href="https://www.linkedin.com/in/tarun-kumar-pathak/" target="_blank" style="text-decoration: none;">
-    <button onmouseover="this.style.opacity='0.8'" onmouseout="this.style.opacity='1'" style="background-color: #0072b1; color: white; border: none; padding: 10px 20px; margin: 5px; border-radius: 5px; font-size: 16px; cursor: pointer;">
+    <button style="background-color: #0072b1; color: white; border: none; padding: 10px 20px; margin: 10px; border-radius: 5px; font-size: 16px; cursor: pointer;"
+            onmouseover="this.style.opacity='0.8'" 
+            onmouseout="this.style.opacity='1'">
       LinkedIn
     </button>
   </a>
   <a href="https://tryhackme.com/r/p/tarunkumar910" target="_blank" style="text-decoration: none;">
-    <button onmouseover="this.style.opacity='0.8'" onmouseout="this.style.opacity='1'" style="background-color: #212C42; color: white; border: none; padding: 10px 20px; margin: 5px; border-radius: 5px; font-size: 16px; cursor: pointer;">
+    <button style="background-color: #212C42; color: white; border: none; padding: 10px 20px; margin: 10px; border-radius: 5px; font-size: 16px; cursor: pointer;"
+            onmouseover="this.style.opacity='0.8'" 
+            onmouseout="this.style.opacity='1'">
       TryHackMe
     </button>
   </a>
   <a href="https://leetcode.com/u/tarunkumar910/" target="_blank" style="text-decoration: none;">
-    <button onmouseover="this.style.opacity='0.8'" onmouseout="this.style.opacity='1'" style="background-color: #FFA116; color: white; border: none; padding: 10px 20px; margin: 5px; border-radius: 5px; font-size: 16px; cursor: pointer;">
+    <button style="background-color: #FFA116; color: white; border: none; padding: 10px 20px; margin: 10px; border-radius: 5px; font-size: 16px; cursor: pointer;"
+            onmouseover="this.style.opacity='0.8'" 
+            onmouseout="this.style.opacity='1'">
       LeetCode
     </button>
   </a>
@@ -186,7 +192,7 @@ I'm currently preparing to become a **Security Operations Center (SOC) Tier 1 An
    - [🔗 View Project]( https://github.com/tarunkumar910/password_strength_checker)
   
      
----
+
 
 ### Web Development Projects
 
@@ -206,7 +212,7 @@ I'm currently preparing to become a **Security Operations Center (SOC) Tier 1 An
    - Developed a CV website for professional networking.  
    - [🔗 View Project](https://tarunkumar910.github.io/cv/)
 
----
+
 
 ### IoT Projects
 
@@ -214,7 +220,7 @@ I'm currently preparing to become a **Security Operations Center (SOC) Tier 1 An
    - Designed a biometric system using Arduino for secure attendance logging.  
    - Focused on secure data transfer and hardware-software integration.
 
----
+
 
 ### Java Projects
 
