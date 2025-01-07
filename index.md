@@ -89,21 +89,9 @@ I'm currently preparing to become a **Security Operations Center (SOC) Tier 1 An
 
 ---
 
-## Projects
 
-### Cybersecurity Projects
 
-1. **Password Manager**  
-   - Developed a Python-based tool to create, store, and manage passwords securely.
-   - [🔗 View Project](https://github.com/tarunkumar910/RD_INFRO_TECHNOLOGY/tree/main/Password%20manager%20Guide)
 
-2. **Phishing Email Detection Report**  
-   - Conducted research on phishing techniques and detection methods.
-   - [🔗 View Report](https://github.com/tarunkumar910/RD_INFRO_TECHNOLOGY/tree/main/Phishing%20Detection)
-
-3. **Vulnerability Scanning**  
-   - Performed scans with OpenVAS, documented findings, and proposed solutions.
-   - [🔗 View Report](https://github.com/tarunkumar910/RD_INFRO_TECHNOLOGY/tree/main/Open%20VAS)
 
 ---
 ## Projects
