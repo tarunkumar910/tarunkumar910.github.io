@@ -4,34 +4,23 @@
 # Hello, I'm TARUN KUMAR PATHAK
 
 <div style="text-align: center; margin-top: 20px;">
-  <!-- LinkedIn Button -->
-  <a href="https://www.linkedin.com/in/tarun-kumar-pathak/" target="_blank" style="text-decoration: none;">
-    <button style="background-color: #0072b1; color: white; border: none; padding: 10px 20px; margin: 10px; border-radius: 5px; font-size: 16px; cursor: pointer; display: flex; align-items: center; justify-content: center;"
-            onmouseover="this.style.opacity='0.8'" 
-            onmouseout="this.style.opacity='1'">
-      <i class="fab fa-linkedin" style="margin-right: 10px;"></i> LinkedIn
-    </button>
+
+  <!-- LinkedIn Icon -->
+  <a href="https://www.linkedin.com/in/tarun-kumar-pathak/" target="_blank" style="margin: 10px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg" alt="LinkedIn" style="width: 40px; height: 40px;">
   </a>
 
-  <!-- GitHub Button -->
-  <a href="https://github.com/tarunkumar910" target="_blank" style="text-decoration: none;">
-    <button style="background-color: #24292f; color: white; border: none; padding: 10px 20px; margin: 10px; border-radius: 5px; font-size: 16px; cursor: pointer; display: flex; align-items: center; justify-content: center;"
-            onmouseover="this.style.opacity='0.8'" 
-            onmouseout="this.style.opacity='1'">
-      <i class="fab fa-github" style="margin-right: 10px;"></i> GitHub
-    </button>
+  <!-- GitHub Icon -->
+  <a href="https://github.com/tarunkumar910" target="_blank" style="margin: 10px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="GitHub" style="width: 40px; height: 40px;">
   </a>
 
-  <!-- HackTheBox Button -->
-  <a href="https://www.hackthebox.com/" target="_blank" style="text-decoration: none;">
-    <button style="background-color: #111; color: white; border: none; padding: 10px 20px; margin: 10px; border-radius: 5px; font-size: 16px; cursor: pointer; display: flex; align-items: center; justify-content: center;"
-            onmouseover="this.style.opacity='0.8'" 
-            onmouseout="this.style.opacity='1'">
-      <i class="fas fa-hat-wizard" style="margin-right: 10px;"></i> HackTheBox
-    </button>
+  <!-- HackTheBox Icon -->
+  <a href="https://www.hackthebox.com/" target="_blank" style="margin: 10px;">
+    <img src="https://www.hackthebox.com/images/logo-htb.png" alt="HackTheBox" style="width: 40px; height: 40px;">
   </a>
+
 </div>
-
 ---
 
 ## About Me
