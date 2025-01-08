@@ -3,7 +3,7 @@
 
 # Hello, I'm TARUN KUMAR PATHAK
 
-<div style="text-align: center; margin-top: 20px;">
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px; margin-top: 20px;">
 
   <!-- LinkedIn Button -->
   <a href="https://www.linkedin.com/in/tarun-kumar-pathak/" target="_blank" 
