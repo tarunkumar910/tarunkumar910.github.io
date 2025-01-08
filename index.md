@@ -1,29 +1,37 @@
+<link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css" rel="stylesheet">
+
 
 # Hello, I'm TARUN KUMAR PATHAK
 
 <div style="text-align: center; margin-top: 20px;">
+  <!-- LinkedIn Button -->
   <a href="https://www.linkedin.com/in/tarun-kumar-pathak/" target="_blank" style="text-decoration: none;">
-    <button style="background-color: #0072b1; color: white; border: none; padding: 10px 20px; margin: 10px; border-radius: 5px; font-size: 16px; cursor: pointer;"
+    <button style="background-color: #0072b1; color: white; border: none; padding: 10px 20px; margin: 10px; border-radius: 5px; font-size: 16px; cursor: pointer; display: flex; align-items: center; justify-content: center;"
             onmouseover="this.style.opacity='0.8'" 
             onmouseout="this.style.opacity='1'">
-      LinkedIn
+      <i class="fab fa-linkedin" style="margin-right: 10px;"></i> LinkedIn
     </button>
   </a>
-  <a href="https://tryhackme.com/r/p/tarunkumar910" target="_blank" style="text-decoration: none;">
-    <button style="background-color: #212C42; color: white; border: none; padding: 10px 20px; margin: 10px; border-radius: 5px; font-size: 16px; cursor: pointer;"
+
+  <!-- GitHub Button -->
+  <a href="https://github.com/tarunkumar910" target="_blank" style="text-decoration: none;">
+    <button style="background-color: #24292f; color: white; border: none; padding: 10px 20px; margin: 10px; border-radius: 5px; font-size: 16px; cursor: pointer; display: flex; align-items: center; justify-content: center;"
             onmouseover="this.style.opacity='0.8'" 
             onmouseout="this.style.opacity='1'">
-      TryHackMe
+      <i class="fab fa-github" style="margin-right: 10px;"></i> GitHub
     </button>
   </a>
-  <a href="https://leetcode.com/u/tarunkumar910/" target="_blank" style="text-decoration: none;">
-    <button style="background-color: #FFA116; color: white; border: none; padding: 10px 20px; margin: 10px; border-radius: 5px; font-size: 16px; cursor: pointer;"
+
+  <!-- HackTheBox Button -->
+  <a href="https://www.hackthebox.com/" target="_blank" style="text-decoration: none;">
+    <button style="background-color: #111; color: white; border: none; padding: 10px 20px; margin: 10px; border-radius: 5px; font-size: 16px; cursor: pointer; display: flex; align-items: center; justify-content: center;"
             onmouseover="this.style.opacity='0.8'" 
             onmouseout="this.style.opacity='1'">
-      LeetCode
+      <i class="fas fa-hat-wizard" style="margin-right: 10px;"></i> HackTheBox
     </button>
   </a>
 </div>
+
 ---
 
 ## About Me
