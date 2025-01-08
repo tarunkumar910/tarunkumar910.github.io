@@ -15,9 +15,16 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="GitHub" style="width: 40px; height: 40px;">
   </a>
 
-  <!-- HackTheBox Icon -->
-  <a href="https://www.hackthebox.com/" target="_blank" style="margin: 10px;">
-    <img src="https://www.hackthebox.com/images/logo-htb.png" alt="HackTheBox" style="width: 40px; height: 40px;">
+  <!-- YouTube Icon -->
+  <a href="https://www.youtube.com/@limitlessjourney910" target="_blank" style="margin: 10px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" 
+         alt="YouTube" style="width: 40px; height: 40px;">
+  </a>
+
+  <!-- TryHackMe Icon -->
+  <a href="https://tryhackme.com/r/p/tarunkumar910" target="_blank" style="margin: 10px;">
+    <img src="https://tryhackme.com/img/logo/tryhackme_logo_full.svg" 
+         alt="TryHackMe" style="width: 40px; height: 40px;">
   </a>
 
 </div>
