@@ -7,7 +7,7 @@
 
   <!-- LinkedIn Icon -->
   <a href="https://www.linkedin.com/in/tarun-kumar-pathak/" target="_blank" style="margin: 10px;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg" alt="LinkedIn" style="width: 40px; height: 40px;">
+   <i class="fa-brands fa-linkedin"></i>
   </a>
 
   <!-- GitHub Icon -->
