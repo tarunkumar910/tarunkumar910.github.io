@@ -5,26 +5,52 @@
 
 <div style="text-align: center; margin-top: 20px;">
 
-  <!-- LinkedIn Icon -->
-  <a href="https://www.linkedin.com/in/tarun-kumar-pathak/" target="_blank" style="margin: 10px;">
-   <i class="fa-brands fa-linkedin"></i>
+  <!-- LinkedIn Button -->
+  <a href="https://www.linkedin.com/in/tarun-kumar-pathak/" target="_blank" 
+     style="text-decoration: none; margin: 10px;">
+    <button style="background-color: #0072b1; color: white; border: none; padding: 10px 20px; 
+                   margin: 10px; border-radius: 5px; font-size: 16px; cursor: pointer; 
+                   display: flex; align-items: center; gap: 10px;"
+            onmouseover="this.style.opacity='0.8'" 
+            onmouseout="this.style.opacity='1'">
+      <i class="fab fa-linkedin" style="font-size: 20px;"></i> LinkedIn
+    </button>
   </a>
 
-  <!-- GitHub Icon -->
-  <a href="https://github.com/tarunkumar910" target="_blank" style="margin: 10px;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="GitHub" style="width: 40px; height: 40px;">
+  <!-- GitHub Button -->
+  <a href="https://github.com/yourusername" target="_blank" 
+     style="text-decoration: none; margin: 10px;">
+    <button style="background-color: #24292e; color: white; border: none; padding: 10px 20px; 
+                   margin: 10px; border-radius: 5px; font-size: 16px; cursor: pointer; 
+                   display: flex; align-items: center; gap: 10px;"
+            onmouseover="this.style.opacity='0.8'" 
+            onmouseout="this.style.opacity='1'">
+      <i class="fab fa-github" style="font-size: 20px;"></i> GitHub
+    </button>
   </a>
 
-  <!-- YouTube Icon -->
-  <a href="https://www.youtube.com/@limitlessjourney910" target="_blank" style="margin: 10px;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" 
-         alt="YouTube" style="width: 40px; height: 40px;">
+  <!-- YouTube Button -->
+  <a href="https://www.youtube.com/@limitlessjourney910" target="_blank" 
+     style="text-decoration: none; margin: 10px;">
+    <button style="background-color: #FF0000; color: white; border: none; padding: 10px 20px; 
+                   margin: 10px; border-radius: 5px; font-size: 16px; cursor: pointer; 
+                   display: flex; align-items: center; gap: 10px;"
+            onmouseover="this.style.opacity='0.8'" 
+            onmouseout="this.style.opacity='1'">
+      <i class="fab fa-youtube" style="font-size: 20px;"></i> YouTube
+    </button>
   </a>
 
-  <!-- TryHackMe Icon -->
-  <a href="https://tryhackme.com/r/p/tarunkumar910" target="_blank" style="margin: 10px;">
-    <img src="https://tryhackme.com/img/logo/tryhackme_logo_full.svg" 
-         alt="TryHackMe" style="width: 40px; height: 40px;">
+  <!-- TryHackMe Button -->
+  <a href="https://tryhackme.com/r/p/tarunkumar910" target="_blank" 
+     style="text-decoration: none; margin: 10px;">
+    <button style="background-color: #111; color: white; border: none; padding: 10px 20px; 
+                   margin: 10px; border-radius: 5px; font-size: 16px; cursor: pointer; 
+                   display: flex; align-items: center; gap: 10px;"
+            onmouseover="this.style.opacity='0.8'" 
+            onmouseout="this.style.opacity='1'">
+      <i class="fas fa-mask" style="font-size: 20px;"></i> TryHackMe
+    </button>
   </a>
 
 </div>
