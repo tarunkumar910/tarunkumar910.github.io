@@ -221,7 +221,7 @@ In my **HackTheBox Machine Solutions**, you will discover:
   - Performed security audits and implemented measures to mitigate risks.  
   - Documented phishing email detection techniques for awareness programs.  
   - Developed custom scripts to automate network monitoring and enhance security protocols.  
-- [🔗 View Internship Work](https://github.com/tarunkumar910/RD_INFRO_TECHNOLOGY)
+- [🔗 View Internship Work](https://drive.google.com/drive/folders/1pbiBD6nff4rTPdxXdCqEI4oeoSrGERTK?usp=sharing)
 
 ### Trainee Certificate from Internship Studio  
 - **Role**: Trainee  
