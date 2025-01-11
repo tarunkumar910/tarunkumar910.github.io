@@ -204,13 +204,30 @@ In my **HackTheBox Machine Solutions**, you will discover:
 
 ### Rd Infro Technology  
 - **Role**: Cybersecurity Intern  
-- **Duration**: December 2024 - Present  
+- **Duration**: 22 December 2022 - Present  
 - **Responsibilities**:  
   - Conducted penetration testing and vulnerability assessment of web applications.  
   - Performed security audits and implemented measures to mitigate risks.  
   - Documented phishing email detection techniques for awareness programs.  
   - Developed custom scripts to automate network monitoring and enhance security protocols.  
 - [🔗 View Internship Work](https://github.com/tarunkumar910/RD_INFRO_TECHNOLOGY)
+
+
+### Internship Studio  
+- **Role**: Cybersecurity Intern  
+- **Duration**:25 June 2022 - 30 July 2022  
+- **Responsibilities**:  
+  - Conducted penetration testing and vulnerability assessment of web applications.  
+  - Performed security audits and implemented measures to mitigate risks.  
+  - Documented phishing email detection techniques for awareness programs.  
+  - Developed custom scripts to automate network monitoring and enhance security protocols.  
+- [🔗 View Internship Work](https://github.com/tarunkumar910/RD_INFRO_TECHNOLOGY)
+
+### Trainee Certificate from Internship Studio  
+- **Role**: Trainee  
+- **Issued By**: Internship Studio  
+- **Verification Link**: [View Certificate](https://cit2.internshipstudio.com/certificates/validate_certificate.php?verify=ISETHT103046)
+
 
 ---
 
