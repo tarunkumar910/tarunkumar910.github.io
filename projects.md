@@ -2,15 +2,13 @@
 
 # Index
 
+## Projects
 
-## HackTheBox Machine Solutions
-
-| Sl. No. | Machine Name       | Date Solved  | Solution                                                                                     |
-|---------|--------------------|--------------|---------------------------------------------------------------------------------------------|
-| 1       | Machine Alpha      | 2025-01-01   | [View Solution](hackthebox_solutions/machine_alpha.md)                                      |
-| 2       | Machine Beta       | 2025-01-02   | [View Solution](hackthebox_solutions/machine_beta.md)                                       |
-| 3       | Machine Gamma      | 2025-01-03   | [View Solution](hackthebox_solutions/machine_gamma.md)                                      |
-| 4       | Machine Delta      | 2025-01-04   | [View Solution](hackthebox_solutions/machine_delta.md)                                      |
-| 5       | Machine Epsilon    | 2025-01-05   | [View Solution](hackthebox_solutions/machine_epsilon.md)                                    |
+| Sl. No. | Project Name       | Language Used | Project Link                                           | Code Link                                             | Video Link                                      |
+|---------|--------------------|---------------|--------------------------------------------------------|------------------------------------------------------|------------------------------------------------|
+| 1       | Tic-Tac-Toe Game    | Java          | [View Project](https://github.com/your-repo/tic-tac-toe) | [View Code](https://github.com/your-repo/tic-tac-toe) | [View Video](https://youtu.be/your-video-link)  |
+| 2       | ARP Spoofing Tool   | Python        | [View Project](https://github.com/your-repo/arp-spoofing) | [View Code](https://github.com/your-repo/arp-spoofing) | [View Video](https://youtu.be/your-video-link)  |
+| 3       | Network Scanner     | Python        | [View Project](https://github.com/your-repo/network-scanner) | [View Code](https://github.com/your-repo/network-scanner) | [View Video](https://youtu.be/your-video-link)  |
+| 4       | HackTheBox Writeup  | -             | [View Solution](https://medium.com/@yourname/solution-link) | [View Code](https://github.com/your-repo/htb-writeup) | [View Video](https://youtu.be/your-video-link)  |
 
 ---
