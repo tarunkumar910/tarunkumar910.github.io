@@ -237,6 +237,7 @@ In my **HackTheBox Machine Solutions**, you will discover:
 
 
 ## Projects
+🔗 **[View Projects](projects.md)**
 
 ### Cybersecurity Projects
 
