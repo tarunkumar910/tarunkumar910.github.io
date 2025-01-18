@@ -12,6 +12,6 @@
 | 4       | Network Scanner     | Python        | - | [View Code](https://github.com/tarunkumar910/network_scanner) | - |
 | 5       | Task Manger   | Java         | - | [View Code](https://github.com/tarunkumar910/Task_manger) | [View Video](https://youtube.com/shorts/v40m01kb5qo?si=MbMDlcveCzLe6K1C)  |
 | 6       |Password Manger    | Python        | - | [View Code](https://github.com/tarunkumar910/RD_INFRO_TECHNOLOGY/tree/main/Password%20manager%20Guide) | [View Video](https://github.com/tarunkumar910/RD_INFRO_TECHNOLOGY/blob/main/Password%20manager%20Guide/password%20manger.mp4)  |
-
 | 7       | Network Scanner     | Python        | - | [View Code](https://github.com/tarunkumar910/password_strength_checker) | - |
+
 ---
