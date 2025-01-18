@@ -13,5 +13,11 @@
 | 5       | Task Manger   | Java         | - | [View Code](https://github.com/tarunkumar910/Task_manger) | [View Video](https://youtube.com/shorts/v40m01kb5qo?si=MbMDlcveCzLe6K1C)  |
 | 6       |Password Manger    | Python        | - | [View Code](https://github.com/tarunkumar910/RD_INFRO_TECHNOLOGY/tree/main/Password%20manager%20Guide) | [View Video](https://github.com/tarunkumar910/RD_INFRO_TECHNOLOGY/blob/main/Password%20manager%20Guide/password%20manger.mp4)  |
 | 7       | Password Strength Checker     | Python        | - | [View Code](https://github.com/tarunkumar910/password_strength_checker) | - |
+| 8       | Password Strength Checker     | HTML, CSS, Bootstrap        |  [View Project](https://tarunkumar910.github.io/Assignment/) | [View Code](https://github.com/tarunkumar910/Assignment) | - |
+
+
+
+
+
 
 ---
