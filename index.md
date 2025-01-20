@@ -64,7 +64,7 @@ I'm a third-year **Electronics and Communication Engineering B.Tech student**, p
 - **Ethical Hacking**
 - **Competitive Coding**
 - **CTF Player**
-- **Bugg Bounty**
+- **Bug Bounty**
 
 I'm currently preparing to become a **Security Operations Center (SOC) Tier 1 Analyst** to help solve real-world security challenges.
 
